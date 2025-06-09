@@ -212,7 +212,7 @@ Além disso, o sistema UniPass pode ser integrado a outros sistemas da prefeitur
 Dessa forma, o UniPass propõe-se como uma solução eficiente, segura e moderna para a gestão do transporte gratuito estudantil, beneficiando tanto os estudantes quanto os órgãos públicos responsáveis pelo serviço.
 
 Uma estrutura operacional do produto é apresentada na Figura 1\.  
-![][image1]  
+![Arquitetura UniPass](../../assets/images/architecture.jpg)
 Figura 1 \- Arquitetura ambiental do sistema UniPass.
 
 ## Custo e venda
