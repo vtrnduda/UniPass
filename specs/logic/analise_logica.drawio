@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.9">
   <diagram name="Página-1" id="qj3AArMShkrjT8RXBC43">
-    <mxGraphModel dx="5580" dy="3759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3420" dy="2582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
         <mxCell id="o-Le0sH0ItpzQ84VEquG-38" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="o-Le0sH0ItpzQ84VEquG-36" vertex="1">
           <mxGeometry y="200" width="300" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="o-Le0sH0ItpzQ84VEquG-39" value="+ consultarFrequencia(estudante: Estudante) -&amp;gt; Frequencia&lt;div&gt;+ receberFrequencia(estudante: Estudante) -&amp;gt; bool&lt;/div&gt;&lt;div&gt;+ atualizarFrequencia() -&amp;gt; void&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="o-Le0sH0ItpzQ84VEquG-36" vertex="1">
+        <mxCell id="o-Le0sH0ItpzQ84VEquG-39" value="+ consultarFrequencia(estudante: Estudante) -&amp;gt; Frequencia&lt;div&gt;+ receberFrequencia(estudante: Estudante) -&amp;gt; bool&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="o-Le0sH0ItpzQ84VEquG-36" vertex="1">
           <mxGeometry y="208" width="300" height="72" as="geometry" />
         </mxCell>
         <mxCell id="o-Le0sH0ItpzQ84VEquG-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="o-Le0sH0ItpzQ84VEquG-41" target="o-Le0sH0ItpzQ84VEquG-70" edge="1">
@@ -262,7 +262,7 @@
         <mxCell id="o-Le0sH0ItpzQ84VEquG-79" value="Mensagem" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-90" y="30" width="240" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="o-Le0sH0ItpzQ84VEquG-80" value="&lt;div&gt;- Id : int&lt;/div&gt;&lt;div&gt;- dataProgramada: Datetime&lt;/div&gt;&lt;div&gt;- destinatario: List&amp;lt;Object&amp;gt;&lt;br&gt;- remetente:&amp;nbsp; Object&lt;/div&gt;&lt;div&gt;- conteudo: string&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="o-Le0sH0ItpzQ84VEquG-79" vertex="1">
+        <mxCell id="o-Le0sH0ItpzQ84VEquG-80" value="&lt;div&gt;- Id : int&lt;/div&gt;&lt;div&gt;- dataProgramada: Datetime&lt;/div&gt;&lt;div&gt;- destinatario: List&amp;lt;Object&amp;gt;&lt;br&gt;- remetente:&amp;nbsp; Object&lt;/div&gt;&lt;div&gt;- conteudo: string&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="o-Le0sH0ItpzQ84VEquG-79" vertex="1">
           <mxGeometry y="55" width="240" height="145" as="geometry" />
         </mxCell>
         <mxCell id="o-Le0sH0ItpzQ84VEquG-81" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="o-Le0sH0ItpzQ84VEquG-79" vertex="1">
